@@ -32,6 +32,7 @@ Proyek ini bertujuan untuk:
 ## 🛠️ Technologies Used
 
 - **Python 3**
+- **ngrok** 
 - **Flask** – Web framework
 - **Pandas** – Data processing
 - **Scikit-learn** – Machine Learning
