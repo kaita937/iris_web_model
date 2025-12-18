@@ -6,7 +6,7 @@ Web-Based Machine Learning Application for Iris Flower Classification
 Aplikasi ini memungkinkan pengguna memasukkan fitur bunga dan mendapatkan hasil prediksi secara real-time melalui antarmuka web yang sederhana dan interaktif.
 
 Model yang digunakan dibangun dari dataset Iris yang populer dan diintegrasikan langsung ke dalam aplikasi web.
-dataset :
+
 https://www.kaggle.com/datasets/uciml/iris
 
 ---
