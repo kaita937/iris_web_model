@@ -1,17 +1,17 @@
 # Iris Web Model 🌸  
 Web-Based Machine Learning Application for Iris Flower Classification
 
-## 📖 Overview
+## Overview
 **Iris Web Model** adalah aplikasi web berbasis **Python Flask** yang mengimplementasikan model **Machine Learning** untuk melakukan klasifikasi jenis bunga Iris.  
 Aplikasi ini memungkinkan pengguna memasukkan fitur bunga dan mendapatkan hasil prediksi secara real-time melalui antarmuka web yang sederhana dan interaktif.
 
 Model yang digunakan dibangun dari dataset Iris yang populer dan diintegrasikan langsung ke dalam aplikasi web.
 
-https://www.kaggle.com/datasets/uciml/iris
+dataset : https://www.kaggle.com/datasets/uciml/iris
 
 ---
 
-## 🎯 Objectives
+## Objectives
 Proyek ini bertujuan untuk:
 - Mengimplementasikan model Machine Learning ke dalam aplikasi web
 - Mempelajari integrasi **Flask + Machine Learning**
@@ -20,16 +20,16 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## 🚀 Features
-- 🌐 Web application menggunakan Flask
-- 🧠 Model klasifikasi Iris (C4.5 / Decision Tree)
-- 📊 Prediksi berdasarkan input fitur numerik
-- 🖼️ Visualisasi gambar bunga Iris
-- ⚡ Prediksi dilakukan secara real-time
+## Features
+- Web application menggunakan Flask
+- Model klasifikasi Iris (C4.5 / Decision Tree)
+- Prediksi berdasarkan input fitur numerik
+- Visualisasi gambar bunga Iris
+- Prediksi dilakukan secara real-time
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **ngrok** 
@@ -37,5 +37,3 @@ Proyek ini bertujuan untuk:
 - **Pandas** – Data processing
 - **Scikit-learn** – Machine Learning
 - **HTML & CSS** – Frontend interface
-
----
